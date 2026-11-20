@@ -1,0 +1,6 @@
+{
+  "name": "AegisMed Federated Diagnostics",
+  "description": "Privacy-preserving federated learning platform for clinical disease diagnosis with AES-256-GCM encrypted storage, differential privacy, and cryptographic integrity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
